@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Steven a passionate fullstack engineer at @strivion and @vercel. Currently working for WatchFinder as a SaaS.
+Hi, I'm Steven a passionate fullstack engineer at @strivion and @vercel.
 
 
 ## 🌐 Socials:
