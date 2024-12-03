@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Steven a passionate fullstack engineer at @strivion and @vercel.
+Full-Stack Engineer at Strivion, former Frontend Engineer at Airbnb, crafting seamless digital experiences.
 
 
 ## 🌐 Socials:
